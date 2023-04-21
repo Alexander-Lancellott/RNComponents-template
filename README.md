@@ -1,6 +1,18 @@
-# RNComponents Placeholder
+<h1 align="center">RNComponents Template</h1>
 
-React Native app with Typescript made using React Native 0.71.6
+<div align="center">
+
+[![NPM RN pkg ver](https://img.shields.io/badge/React%20Native-0.71.6-red.svg)](https://github.com/facebook/react-native/releases)
+[![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg)](#)
+[![Linter](https://badges.aleen42.com/src/eslint.svg)](#)
+[![Formatter: prettier](https://img.shields.io/badge/Formatter-Prettier-f8bc45.svg)](#)
+[![App](https://img.shields.io/badge/App-1.0.0-green)](#)
+
+</div>
+
+| Android                                                                                                                                                                  | iOS                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Android](https://raw.githubusercontent.com/Alexander-Lancellott/images/master/RNComponents/Screenshot_1682104124.png?token=GHSAT0AAAAAACBV7JNQPUDZO5KUGHW4JLTMZCC4LCA) | ![iOS](https://raw.githubusercontent.com/Alexander-Lancellott/images/master/RNComponents/Simulator%20Screen%20Shot%20-%20iPhone%2014%20-%202023-04-21%20at%2016.08.52.png?token=GHSAT0AAAAAACBV7JNQ2VQHOLXSW36GCDKWZCC4MNA) |
 
 ## Clone
 
@@ -49,5 +61,3 @@ $ cd ios && pod install
 - TypeScript
 - Styled Components
 - React Navigation v6
-
-V.1.0.0

@@ -13,7 +13,6 @@ export const Container = styled(View)(
   StyleType<ViewStyle>({
     marginHorizontal: 20,
     marginTop: 10,
-    marginBottom: 30,
   }),
 );
 

@@ -7,7 +7,7 @@ import theme from '../../styles/theme';
 
 export const HomeScreen = () => {
   return (
-    <Header title="Opciones de Menu">
+    <Header title="Opciones de Menú">
       <Container>
         <FlatList
           data={menuItems}

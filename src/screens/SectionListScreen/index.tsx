@@ -7,6 +7,7 @@ import { casas } from '../../data/casas';
 import { ListFooter } from './style';
 import { SectionHeader } from './style';
 import theme from '../../styles/theme';
+import { isIos } from '../../utils/responsive';
 
 export const SectionListScreen = () => {
   const { goBack } = Navigator();
@@ -22,6 +23,7 @@ export const SectionListScreen = () => {
               <TextStyled fw="bold">{`Total de casas ${casas.length}`}</TextStyled>
             </ListFooter>
           }
+          initialNumToRender={isIos ? 20 : undefined}
           renderItem={({ item }) => <TextStyled>{item}</TextStyled>}
           stickySectionHeadersEnabled
           renderSectionHeader={({ section }) => (
