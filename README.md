@@ -10,9 +10,13 @@
 
 </div>
 
-| Android                                                                                                                                                                  | iOS                                                                                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Android](https://raw.githubusercontent.com/Alexander-Lancellott/images/master/RNComponents/Screenshot_1682104124.png?token=GHSAT0AAAAAACBV7JNQPUDZO5KUGHW4JLTMZCC4LCA) | ![iOS](https://raw.githubusercontent.com/Alexander-Lancellott/images/master/RNComponents/Simulator%20Screen%20Shot%20-%20iPhone%2014%20-%202023-04-21%20at%2016.08.52.png?token=GHSAT0AAAAAACBV7JNQ2VQHOLXSW36GCDKWZCC4MNA) |
+<div align="center">
+
+| Android                                                                                                                                            | iOS                                                                                                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Android](https://res.cloudinary.com/dms5y8rug/image/upload/c_thumb,g_face,q_auto:best,w_450/v1682107445/RNComponents/Screenshot_1682104124.webp) | ![iOS](https://res.cloudinary.com/dms5y8rug/image/upload/c_thumb,g_face,q_auto:best,w_450/v1682107445/RNComponents/Simulator_Screen_Shot_-_iPhone_14_-_2023-04-21_at_16.08.52.webp) |
+
+</div>
 
 ## Clone
 
